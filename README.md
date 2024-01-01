@@ -9,4 +9,3 @@ In ConsoleApp1 folder you will find the following:
   4. The `struct1` class provides insights into the usage of a struct.
   5. In the `Program` class, the `Main` method serves as the entry point, where all the objects are instantiated, and various methods are validated.
 
-In ClassLibrary_Session1_F there are two simple classes (has no implementation), there were just used as library in ConsoleApp project.
