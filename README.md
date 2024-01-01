@@ -1,6 +1,7 @@
 # C_sharp_OOP_Session1
 
 Here you'll discover code implementations of Object-Oriented Programming (OOP) concepts that I've learned from an online course with some comments that may help you to understand.
+
 In ConsoleApp1 folder you will find the following:
   1. In the classes `Employee` and `Car`, I've implemented the Encapsulation and Property concepts (with setter and getter).
   2. The `PhoneBook` class demonstrates the implementation of an Indexer.
